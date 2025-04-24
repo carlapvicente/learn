@@ -1,0 +1,5 @@
+# CodeOwners
+/.github/CODEOWNERS @carlapvicente
+
+# ALL Files
+* @carlapvicente
