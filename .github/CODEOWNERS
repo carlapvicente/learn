@@ -1,0 +1,16 @@
+# This is a CODEOWNERS file.
+# Lines starting with '#' are comments.
+
+# Default owner for all files
+*       @carlapvicente
+
+# Workflow folder
+.github/* @carlapvicente
+
+# Specific owners for specific directories or files
+/docs/  @docs-team
+/src/   @dev-team
+*.md    @content-team
+
+# Example of multiple owners
+/scripts/ @dev-team @ops-team
