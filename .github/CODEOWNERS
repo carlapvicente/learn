@@ -1,5 +1,2 @@
-# This is a CODEOWNERS file.
-# Lines starting with '#' are comments.
-
-# Default owner for all files
+# Ensure @carlapvicente is a required reviewer for all pull requests
 *       @carlapvicente
