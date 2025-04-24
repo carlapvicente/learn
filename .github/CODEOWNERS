@@ -2,10 +2,10 @@
 # Lines starting with '#' are comments.
 
 # Default owner for all files
-*       @default-owner
+*       @carlapvicente
 
 # Workflow folder
-.github/* @default-owner
+.github/* @carlapvicente
 
 # Specific owners for specific directories or files
 /docs/  @docs-team
