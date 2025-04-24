@@ -1,2 +1,2 @@
 # Ensure @carlapvicente is a required reviewer for all pull requests
-*       @carlapvicente
+CODEOWNERS @carlapvicente
